@@ -1,2 +1,20 @@
 .env
 node_modules/
+
+# Environment variables
+frontend/.env
+interview-backend/.env
+
+# Dependencies
+frontend/node_modules/
+interview-backend/node_modules/
+
+# Logs
+interview-backend/logs/
+interview-backend/temp/
+interview-backend/temp_audio/
+interview-backend/uploads/
+
+# Build files
+frontend/build/
+
